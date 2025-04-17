@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\bin\Debug\ejercicio 3 - semana 3 - funal.exe.config
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\bin\Debug\ejercicio 3 - semana 3 - funal.exe
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\bin\Debug\ejercicio 3 - semana 3 - funal.pdb
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\obj\Debug\ejercicio 3 - semana 3 - funal.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\obj\Debug\ejercicio 3 - semana 3 - funal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\obj\Debug\ejercicio 3 - semana 3 - funal.exe
+C:\Users\Usuario\Desktop\VISUAL STUDIO PROYECTOS\SEMANA 3\ejercicio 3 - semana 3 - funal\ejercicio 3 - semana 3 - funal\obj\Debug\ejercicio 3 - semana 3 - funal.pdb
